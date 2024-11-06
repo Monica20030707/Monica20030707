@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on: Building scalable and responsive websites with JavaScript
 - 🤖 I'm experience with: Machine learning with Python, cloud computing with AWS, and database management with SQL
 - 🌱 I’m currently learning: Mobile development with Kotlin and expanding my ML skills to LLMs for AI
-- 🤔 I’m looking for: help with please give ME AN INTERSHIPP PLEASEEE 🤡
+- 🤔 I’m looking for: help with please give ME AN INTERNSHIPP PLEASEEE 🤡
 - 🎮 When I’m free: You’ll find me playing badminton 🏸, taking care of my fish 🐟, or finding new food recipes 🧑‍🍳
 
 <div align="center">
