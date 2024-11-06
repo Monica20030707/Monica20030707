@@ -10,7 +10,7 @@
 - 🤖 I'm experience with: Machine learning with Python, cloud computing with AWS, and database management with SQL
 - 🌱 I’m currently learning: Mobile development with Kotlin and expanding my ML skills to LLMs for AI
 - 🤔 I’m looking for: help with please give ME AN INTERSHIPP PLEASEEE 🤡
-- 😆 When I’m free: You’ll find me playing badminton 🏸, taking care of my fish 🐟, or finding new food recipes 🧑‍🍳
+- 🎮 When I’m free: You’ll find me playing badminton 🏸, taking care of my fish 🐟, or finding new food recipes 🧑‍🍳
 
 <div align="center">
   
