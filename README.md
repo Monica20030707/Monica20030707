@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Hi, I'm Monica Nguyen 🌠 
+  # 👋 Hi, I'm Monica Nguyen 
 
   **I'm an undergraduate student with a passion for Computer Science 😼**
 
