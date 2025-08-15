@@ -32,3 +32,9 @@
 
 **Thanks for reading! You’re awesome 🌟**
 </div>
+
+<div align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/monica20030707/monica20030707/output/snake.svg" />
+</div>
