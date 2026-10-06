@@ -47,3 +47,6 @@ Still learning a lot, still trying new things, and always happy to make cool ide
 
   <strong>Thanks for stopping by! 🌟</strong>
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Monica20030707/Monica20030707/output/github-contribution-grid-snake.svg" alt="Snake eating Monica's contributions" />
+</div>
